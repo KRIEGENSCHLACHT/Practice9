@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practice9_1</string>
+    <string name="rndButtonText">Рандом значение</string>
+    <string name="rndTextViewHeading">Это случайное число между 0 и %1d</string>
+    <string name="randomDescription">Случайное число из диапазона</string>
+</resources>
